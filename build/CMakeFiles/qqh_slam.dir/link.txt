@@ -1,0 +1,1 @@
+g++   -std=c++11 -march=native -O3 -O3 -DNDEBUG   CMakeFiles/qqh_slam.dir/main.cpp.o  -o ../bin/qqh_slam -rdynamic 

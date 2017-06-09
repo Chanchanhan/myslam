@@ -1,0 +1,4 @@
+[Project]
+Name=qqh_SLAM
+Manager=KDevCMakeManager
+VersionControl=
